@@ -7,12 +7,12 @@ Tested up to: 4.2
 Stable tag: 1.0
 
 
-This plugin disables the new emoji functionality in WordPress 4.2.
+There is an alternative plugin from Otto42 which does this.
 
 
 == Description ==
 
-This plugin disables the new emoji functionality in WordPress 4.2.
+There is an alternative plugin from Otto42 which does this. I recommend using it instead now ... <a href="https://wordpress.org/plugins/classic-smilies/">https://wordpress.org/plugins/classic-smilies/</a>
 
 
 == Installation ==
