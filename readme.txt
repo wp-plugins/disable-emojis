@@ -4,15 +4,15 @@ Tags: emojis
 Donate link: https://geek.hellyer.kiwi/donate/
 Requires at least: 4.2
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 
-There is an alternative plugin from Otto42 which does this.
+This plugin disables the new emoji functionality in WordPress 4.2.
 
 
 == Description ==
 
-There is an alternative plugin from Otto42 which does this. I recommend using it instead now ... <a href="https://wordpress.org/plugins/classic-smilies/">https://wordpress.org/plugins/classic-smilies/</a>
+This plugin disables the new emoji functionality in WordPress 4.2.
 
 
 == Installation ==
