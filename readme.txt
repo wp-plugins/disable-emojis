@@ -3,7 +3,7 @@ Contributors: ryanhellyer
 Tags: emojis
 Donate link: https://geek.hellyer.kiwi/donate/
 Requires at least: 4.2
-Tested up to: 4.2
+Tested up to: 4.4
 Stable tag: 1.5
 
 
